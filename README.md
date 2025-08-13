@@ -56,7 +56,7 @@ In collaboration with **DLT Labs**, a pioneer in enterprise blockchain solutions
 
 ---
 
-## 🏆 Achievements
+## 🏆  Achievements
 
 - **🤝 MoU with DLT Labs** – Collaborative research & training programs in Blockchain.
 - **🏅 SIH 2022 Winners** – Smart India Hackathon champions.
